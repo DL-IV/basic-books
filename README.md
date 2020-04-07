@@ -1,3 +1,3 @@
-# BASIC BOOKS FOR MEDICINE
+# MEDICAL LIBRARY
 
-Download and read them.
+Downloads and reads them.
