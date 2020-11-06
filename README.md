@@ -1,6 +1,6 @@
 # MEDICAL LIBRARY
 
-The library resources offers the visitors information about medical.
+The library resources offer the visitors information about medical.
 
 ## License
 Copyright &copy; **MedPocket**. All rights reserved.
