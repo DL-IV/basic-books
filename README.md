@@ -1,9 +1,13 @@
 # Medical library
+
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/medlib?logo=github&label=Download)](https://github.com/MedPocket/medlib/archive/refs/heads/main.zip)
+
 A health or medical library is designed to assist physicians, health professionals, students,
 patients, consumers, medical researchers, and information specialists in finding health and
 scientific information to improve, update, assess, or evaluate health care.
 
 ## License
+
 Copyright &copy; MedPocket. All rights reserved.
 
 Licensed under the [CC0-1.0](LICENSE) license.
